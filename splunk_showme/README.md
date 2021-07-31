@@ -1,4 +1,4 @@
-# splunk_scripts
+# Readme
 
 ## splunk_showme.sh
 ### Description :
